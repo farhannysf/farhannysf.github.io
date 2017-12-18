@@ -51,7 +51,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Beranda</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-e\">Tentang Kami</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-h\">Galeri</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box7-u\">Hubungi Kami</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-q\">Peta Lokasi</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Beranda</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">Tentang Kami</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">Galeri</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box7-u\">Hubungi Kami</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-q\">Peta Lokasi</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -117,7 +117,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kitchen Set</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kitchen Set</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-1"
         },
@@ -143,7 +143,7 @@
           },
           "title": "Kitchen Set",
           "text": "Menyediakan aneka produk untuk dapur anda&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Hubungi Kami</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Pelajari lebih lanjut</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box7-u\" data-toolbar=\"-mbrBtnMove\">Hubungi Kami</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#slider-5\" data-toolbar=\"-mbrBtnMove\">Pelajari lebih lanjut</a>",
           "_tags": [
             "Theme"
           ],
@@ -289,7 +289,6 @@
               "name": "shopping-cart",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "black"
             }
@@ -301,7 +300,6 @@
               "name": "delivery",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "black"
             }
@@ -313,7 +311,6 @@
               "name": "home",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "black"
             }
@@ -555,7 +552,7 @@
           },
           "title": "TOKO KITCHEN SET",
           "text": "Alamat: Jalan Raya 1, Tangerang Selatan<br>Nomor Telfon: (021) 777 777<br>Email: kitchenset@gmail.com",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+0217777777\" data-toolbar=\"-mbrBtnMove\">Telfon</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Email</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+0217777777\" data-toolbar=\"-mbrBtnMove\">Telfon</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"mailto:support@kitchenset.com\" data-toolbar=\"-mbrBtnMove\">Email</a>",
           "_tags": [
             "Theme"
           ],
